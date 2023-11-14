@@ -1,0 +1,88 @@
+.table-main {
+  background-color: #036b52;
+  border-radius: 10px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: 154px;
+  padding: 320px 80px 80px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+thead {
+  border-bottom: 2px solid white;
+}
+
+thead tr {
+  align-items: center;
+  background-color: #036b52;
+  display: flex;
+  padding: 15px;
+}
+
+
+thead th {
+  align-items: center;
+  background-color: #036b52;
+  border-right: 2px solid white;
+  display: flex;
+  height: 30px;
+  justify-content: center;
+  margin: 1px;
+  width: 150px;
+}
+
+thead .moeda {
+  height: 30px;
+  width: 300px;
+}
+
+.editar-excluir {
+  border-right: 1px solid #036b52;
+}
+
+tbody tr {
+  background-color: #036b52;
+  border-bottom: 1px solid rgb(197, 197, 197);
+  display: flex;
+  justify-content: space-around;
+}
+
+tbody td {
+  align-items: center;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  width: 120px;
+}
+
+tbody .moeda {
+  height: 50px;
+  width: 300px;
+}
+
+#editar {
+  border: none;
+  background-color: transparent;
+  color: white;
+}
+
+#editar:hover {
+  cursor: pointer;
+  color: #2fc18c;
+}
+
+#excluir {
+  border: none;
+  background-color: transparent;
+  color: white;
+}
+
+#excluir:hover {
+  cursor: pointer;
+  color: #2fc18c;
+}
+
