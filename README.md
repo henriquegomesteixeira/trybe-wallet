@@ -2,6 +2,9 @@
 
 Este projeto consiste em uma aplicação web para gerenciamento de despesas financeiras. Permite aos usuários realizar login, adicionar, editar e excluir despesas, além de apresentar um resumo das despesas totais.
 
+## Deploy
+O projeto está disponível para acesso no link: [Trybe Wallet](https://trybe-wallet-smoky.vercel.app/)
+
 ## Tecnologias e Técnicas Utilizadas
 
 - **React**: Biblioteca JavaScript para construção da interface do usuário.
